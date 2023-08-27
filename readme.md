@@ -13,4 +13,8 @@ Easy shortcuts to the German Umlauts, without installing a German keyboard and w
 
 No installation,  Just download the binary, run it and that's it!
 
+was only tested on windows 10.
+
+[download](https://github.com/yotamabt/easy-german-keyboard/releases/download/germanKeys/easyGermanKeyboard.exe)
+
 ![Usage example](https://s11.gifyu.com/images/SgQ1y.gif)
