@@ -6,6 +6,18 @@ from PIL import Image
 from pystray import MenuItem as item
 import sys
 import os
+import subprocess
+from tkinter import messagebox
+
+processes = subprocess.Popen('tasklist', stdin=subprocess.PIPE, stderr=subprocess.PIPE, stdout=subprocess.PIPE).communicate()[0]
+
+dev_mode = False
+
+
+if processes.decode().count(os.path.basename(sys.executable)) > 2  and not dev_mode:
+    messagebox.showerror('App already running!', f'{os.path.basename(sys.executable)} already running')
+    sys.exit(0)
+
 
 def resource_path(relative_path):
 
