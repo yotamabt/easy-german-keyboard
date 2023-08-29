@@ -1,0 +1,224 @@
+Afrikaans - South Africa		0x436
+Albanian - Albania			0x041c
+Amharic - Ethiopia			0x045e
+Arabic - Saudi Arabia			0x401
+Arabic - Algeria			0x1401
+Arabic - Bahrain			0x3c01
+Arabic - Egypt				0x0c01
+Arabic - Iraq				0x801
+Arabic - Jordan				0x2c01
+Arabic - Kuwait				0x3401
+Arabic - Lebanon			0x3001
+Arabic - Libya				0x1001
+Arabic - Morocco			0x1801
+Arabic - Oman				0x2001
+Arabic - Qatar				0x4001
+Arabic - Syria				0x2801
+Arabic - Tunisia			0x1c01
+Arabic - U.A.E.				0x3801
+Arabic - Yemen				0x2401
+Armenian - Armenia			0x042b
+Assamese				0x044d
+Azeri (Cyrillic)			0x082c
+Azeri (Latin)				0x042c
+Basque					0x042d
+Belarusian				0x423
+Bengali (India)				0x445
+Bengali (Bangladesh)			0x845
+Bosnian (Bosnia/Herzegovina)		0x141A
+Bulgarian				0x402
+Burmese					0x455
+Catalan					0x403
+Cherokee - United States		0x045c
+Chinese - People's Republic of China	0x804
+Chinese - Singapore			0x1004
+Chinese - Taiwan			0x404
+Chinese - Hong Kong SAR			0x0c04
+Chinese - Macao SAR			0x1404
+Croatian				0x041a
+Croatian (Bosnia/Herzegovina)		0x101a
+Czech					0x405
+Danish					0x406
+Divehi					0x465
+Dutch - Netherlands			0x413
+Dutch - Belgium				0x813
+Edo					0x466
+English - United States			0x409
+English - United Kingdom		0x809
+English - Australia			0x0c09
+English - Belize			0x2809
+English - Canada			0x1009
+English - Caribbean			0x2409
+English - Hong Kong SAR			0x3c09
+English - India				0x4009
+English - Indonesia			0x3809
+English - Ireland			0x1809
+English - Jamaica			0x2009
+English - Malaysia			0x4409
+English - New Zealand			0x1409
+English - Philippines			0x3409
+English - Singapore			0x4809
+English - South Africa			0x1c09
+English - Trinidad			0x2c09
+English - Zimbabwe			0x3009
+Estonian				0x425
+Faroese					0x438
+Farsi					0x429
+Filipino				0x464
+Finnish					0x040b
+French - France				0x040c
+French - Belgium			0x080c
+French - Cameroon			0x2c0c
+French - Canada				0x0c0c
+French - Democratic Rep. of Congo	0x240c
+French - Cote d'Ivoire			0x300c
+French - Haiti				0x3c0c
+French - Luxembourg			0x140c
+French - Mali				0x340c
+French - Monaco				0x180c
+French - Morocco			0x380c
+French - North Africa			0xe40c
+French - Reunion			0x200c
+French - Senegal			0x280c
+French - Switzerland			0x100c
+French - West Indies			0x1c0c
+Frisian - Netherlands			0x462
+Fulfulde - Nigeria			0x467
+FYRO Macedonian				0x042f
+Gaelic (Ireland)			0x083c
+Gaelic (Scotland)			0x043c
+Galician				0x456
+Georgian				0x437
+German - Germany			0x407
+German - Austria			0x0c07
+German - Liechtenstein			0x1407
+German - Luxembourg			0x1007
+German - Switzerland			0x807
+Greek					0x408
+Guarani - Paraguay			0x474
+Gujarati				0x447
+Hausa - Nigeria				0x468
+Hawaiian - United States		0x475
+Hebrew					0x040d
+Hindi					0x439
+Hungarian				0x040e
+Ibibio - Nigeria			0x469
+Icelandic				0x040f
+Igbo - Nigeria				0x470
+Indonesian				0x421
+Inuktitut				0x045d
+Italian - Italy				0x410
+Italian - Switzerland			0x810
+Japanese				0x411
+Kannada					0x044b
+Kanuri - Nigeria			0x471
+Kashmiri				0x860
+Kashmiri (Arabic)			0x460
+Kazakh					0x043f
+Khmer					0x453
+Konkani					0x457
+Korean					0x412
+Kyrgyz (Cyrillic)			0x440
+Lao					0x454
+Latin					0x476
+Latvian					0x426
+Lithuanian				0x427
+Malay - Malaysia			0x043e
+Malay - Brunei Darussalam		0x083e
+Malayalam				0x044c
+Maltese					0x043a
+Manipuri				0x458
+Maori - New Zealand			0x481
+Marathi					0x044e
+Mongolian (Cyrillic)			0x450
+Mongolian (Mongolian)			0x850
+Nepali					0x461
+Nepali - India				0x861
+Norwegian (Bokmål)			0x414
+Norwegian (Nynorsk)			0x814
+Oriya					0x448
+Oromo					0x472
+Papiamentu				0x479
+Pashto					0x463
+Polish					0x415
+Portuguese - Brazil			0x416
+Portuguese - Portugal			0x816
+Punjabi					0x446
+Punjabi (Pakistan)			0x846
+Quecha - Bolivia			0x046B
+Quecha - Ecuador			0x086B
+Quecha - Peru				0x0C6B
+Rhaeto-Romanic				0x417
+Romanian				0x418
+Romanian - Moldava			0x818
+Russian					0x419
+Russian - Moldava			0x819
+Sami (Lappish)				0x043b
+Sanskrit				0x044f
+Sepedi					0x046c
+Serbian (Cyrillic)			0x0c1a
+Serbian (Latin)				0x081a
+Sindhi - India				0x459
+Sindhi - Pakistan			0x859
+Sinhalese - Sri Lanka			0x045b
+Slovak					0x041b
+Slovenian				0x424
+Somali					0x477
+Sorbian					0x042e
+Spanish - Spain (Modern Sort)		0x0c0a
+Spanish - Spain (Traditional Sort)	0x040a
+Spanish - Argentina			0x2c0a
+Spanish - Bolivia			0x400a
+Spanish - Chile				0x340a
+Spanish - Colombia			0x240a
+Spanish - Costa Rica			0x140a
+Spanish - Dominican Republic		0x1c0a
+Spanish - Ecuador			0x300a
+Spanish - El Salvador			0x440a
+Spanish - Guatemala			0x100a
+Spanish - Honduras			0x480a
+Spanish - Latin America			0xe40a
+Spanish - Mexico			0x080a
+Spanish - Nicaragua			0x4c0a
+Spanish - Panama			0x180a
+Spanish - Paraguay			0x3c0a
+Spanish - Peru				0x280a
+Spanish - Puerto Rico			0x500a
+Spanish - United States			0x540a
+Spanish - Uruguay			0x380a
+Spanish - Venezuela			0x200a
+Sutu					0x430
+Swahili					0x441
+Swedish					0x041d
+Swedish - Finland			0x081d
+Syriac					0x045a
+Tajik					0x428
+Tamazight (Arabic)			0x045f
+Tamazight (Latin)			0x085f
+Tamil					0x449
+Tatar					0x444
+Telugu					0x044a
+Thai					0x041e
+Tibetan - Bhutan			0x851
+Tibetan - People's Republic of China	0x451
+Tigrigna - Eritrea			0x873
+Tigrigna - Ethiopia			0x473
+Tsonga					0x431
+Tswana					0x432
+Turkish					0x041f
+Turkmen					0x442
+Uighur - China				0x480
+Ukrainian				0x422
+Urdu					0x420
+Urdu - India				0x820
+Uzbek (Cyrillic)			0x843
+Uzbek (Latin)				0x443
+Venda					0x433
+Vietnamese				0x042a
+Welsh					0x452
+Xhosa					0x434
+Yi					0x478
+Yiddish					0x043d
+Yoruba					0x046a
+Zulu					0x435
+HID (Human Interface Device)		0x04ff
